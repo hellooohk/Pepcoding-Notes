@@ -14,6 +14,6 @@
 
 ### Print Fibonacci Numbers Till N
 
-<img src="/Lecture%203/solutions/Print%20Fibonacci%20Numbers%20Till%20N.png">
+<img src="solutions/Print%20Fibonacci%20Numbers%20Till%20N.png">
 
 #### [printFibonacci Source Code](solutions/printFibonacci.java)
