@@ -1,3 +1,5 @@
-# Pepcoding Notes and Solutions
+## Pepcoding Notes and Solutions
 
-## [Lecture 3](Lecture3/README.md)
+### [Lecture 3](Lecture3/README.md)
+
+### [Lecture 4](Lecture4/README.md)
