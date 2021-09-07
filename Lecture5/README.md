@@ -6,7 +6,14 @@ Time Complexity O(log(min(a,b))) where a is the first number and b is the second
 
 <img src="solutions/gcdLCM.png" width = "500">
 
+#### What?
+**We are follwing the prime factorization that we have done in our school.**
+
+#### How?
 #### [gcdLCM Source Code](solutions/gcdLCM.java)
+
+#### Why?
+**Remember 3%2 gives 1 and 2%3 gives 2 and while executing we are swapping values, that's why it's work**
 
 ### Prime Factorization
 
