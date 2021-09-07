@@ -78,5 +78,5 @@ Time Complexity O(n*n)
 
 <img src="solutions/pattern2.png" width = "500">
 
-#### [pattern1 Source Code](solutions/pattern2.java)
+#### [pattern2 Source Code](solutions/pattern2.java)
 
