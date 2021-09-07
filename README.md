@@ -6,7 +6,7 @@
 **What to do?**
 
 ### How?
-**How to do? This is the code that you write**)
+**How to do? (This is the code that you actually write)**
 
 ### Why?
 **Why it's actually working, meditate.**
