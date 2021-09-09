@@ -18,5 +18,5 @@
 
 ### [Lecture 5](Lecture5/README.md)
 
-### [Lecture 5](Lecture7/README.md)
+### [Lecture 7](Lecture7/README.md)
 
